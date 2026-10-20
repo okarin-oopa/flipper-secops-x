@@ -1,0 +1,15 @@
+*.fap
+*.elf
+*.o
+*.obj
+*.pyc
+__pycache__/
+.cache/
+.vscode/*.log
+.env
+.env.*
+!.env.example
+secrets/
+private/
+releases/*.bin
+.DS_Store
